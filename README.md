@@ -1,2 +1,2 @@
 # ATMSystem
-It was my first project create using C++ language. 
+It was my first project created using C++ language. 
